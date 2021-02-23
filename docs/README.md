@@ -1,7 +1,7 @@
 # Escola em Casa
 
 **Disciplina**: Gerência e Configuração de Software<br>
-**Código da Disciplina**: FGA0208<br>
+**Código da Disciplina**: FGA0240<br>
 **Nome do Grupo**: Escola em Casa<br>
 **Mentor**: Guilherme Lacerda<br>
 
@@ -28,6 +28,14 @@ Nesse espaço, professores poderão se comunicar com estudantes realizando video
           <div class="middle">
             <div class="text">
             <a href="https://github.com/LGomees">Lucas Gomes</a>
+            </div>
+          </div>
+    </div>
+    <div class="col-sm container-img">
+      <img src="" alt="..." class="img-thumbnail image">
+          <div class="middle">
+            <div class="text">
+            <a href="https://github.com/marcosdsg">Marcos Diego</a>
             </div>
           </div>
     </div>
