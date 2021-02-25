@@ -22,7 +22,13 @@ São utilizadas as seguintes tecnologias para compor a arquitetura do projeto:
 
 ![app-arquitetura](https://user-images.githubusercontent.com/26297247/85495153-5f8a6b80-b5b0-11ea-83c5-d3e8472b5b23.png)
 
-O usuário acessa o aplicativo, desenvolvido nativamente. Com isso, é possível acessar as plataformas (Google Classroom e Wikipedia) que são carregadas, cada uma, em um *webview*. Além disso, o aplicativo está conectado diretamente com o SDK do Datami, responsável por permitir a utilização dos dados patrocinados, através da realização de uma *ponte* entre as operadores de telefonia e a aplicação. O Elasticsearch e o Kibana são responsáveis por armazenar e gerar relatórios do consumo de dados patrocinados.
+O usuário acessa o aplicativo, desenvolvido nativamente. Com isso, é possível acessar as plataformas (Google Classroom e Wikipedia) que são carregadas, cada uma, em um *webview*. Além disso, o aplicativo está conectado diretamente com o SDK do Datami, responsável pela interação entre as operadoras de telefonia e a aplicação.
+
+Por meio da utilização do Datami, é possível transferir a cobrança da utilização dos dados do aplicativo para o patrocinador do mesmo, sendo assim, o usuário pode utilizar dos recursos do aplicativo sem se preocupar com cobrança de dados por parte de sua operadora de telefonia. No Escola em Casa DF, esse recurso é utilizado para que os usuários, que são em sua maioria estudantes da rede pública de ensino do Distrito Federal, possam usufruir dos recursos do aplicativo sem limitações decorridas do uso de dados, que por sua vez são cobrados ao patrocinador do aplicativo, no caso, o Governo do Distrito Federal - GDF.
+
+O ElasticSearch é utilizado para coletar e armazenar as informações relacionadas ao uso de dados do aplicativo por meio do Datami. Os dados são normalizados, enriquecidos, indexados e armazenados pelo ElasticSearch para facilitar a execução de consultas e resumos dos dados coletados. O Kibana é então utilizado para gerar gráficos, logs e *dashboards*, além de facilitar o gerenciamento e a visualização dos dados do ElasticSearch.
+
+![Datami](docs/img/datami.png)
 
 ## Como testar o aplicativo
 
