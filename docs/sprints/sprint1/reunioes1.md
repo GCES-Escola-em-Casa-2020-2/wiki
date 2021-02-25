@@ -36,3 +36,6 @@ A primeira parte da reunião foi realizada no Google Meets. Depois, foi migrada 
 
 * Documentar arquitetura do projeto
 
+Data | Versão | Descrição | Autor |
+:---:|:------:|-----------|-------|
+24/01|1.0 | Criação do Documento | [Rafael Ribeiro](https://github.com/rafaelflarrn) |
