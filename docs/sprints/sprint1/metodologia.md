@@ -39,4 +39,4 @@ Segundo o manifesto ágil, os valores relacionados ao Desenvolvimento ágil de s
 
 Data | Versão | Descrição | Autor |
 :---:|:------:|-----------|-------|
-24/01|0.1 | Criação da Página | [Rafael Ribeiro](https://github.com/rafaelflarrn) |
+24/02|0.1 | Criação da Página | [Rafael Ribeiro](https://github.com/rafaelflarrn) |

@@ -47,6 +47,6 @@ Devido a complexidade de algumas issues, pode ser necessário um tempo de estudo
 
 Data | Versão | Descrição | Autor |
 :---:|:------:|-----------|-------|
-22/01|0.1 | Criação da Página | [Rafael Ribeiro](https://github.com/rafaelflarrn) |
-23/03|0.2 | Adicionado Objetivos | [Rafael Ribeiro](https://github.com/rafaelflarrn) |
-24/03|1.0 | Adicionado Pontuação | [Rafael Ribeiro](https://github.com/rafaelflarrn) |
+22/02|0.1 | Criação da Página | [Rafael Ribeiro](https://github.com/rafaelflarrn) |
+23/02|0.2 | Adicionado Objetivos | [Rafael Ribeiro](https://github.com/rafaelflarrn) |
+24/02|1.0 | Adicionado Pontuação | [Rafael Ribeiro](https://github.com/rafaelflarrn) |
