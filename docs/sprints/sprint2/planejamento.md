@@ -18,7 +18,7 @@ Início | Termino | Duração |
 
 Issue | Assign | Pontuação |
 :----:|:------:|:---------:|
-**Documentar todo o processo de publicação do app na Google Play e Apple Store** | [Geise Saunier](https://github.com/GeiseSaunier) | 5 |
+[Documentar todo o processo de publicação do app na Google Play e Apple Store](https://github.com/GCES-Escola-em-Casa-2020-2/wiki/issues/6)| [Geise Saunier](https://github.com/GeiseSaunier) | 5 |
 [Filtrar acesso a internet antes de abrir o WebView](https://github.com/GCES-Escola-em-Casa-2020-2/wiki/issues/5) | [Pedro Igor](https://github.com/pedroeagle) | 5 |
 [Abrir formularios do google](https://github.com/Escola-em-Casa/android-escola-em-casa/issues/50) | [Rafael Ribeiro](https://github.com/rafaelflarrn) | 8 |
 [Documentar o processo de atualização do SDK datami](https://github.com/Escola-em-Casa/android-escola-em-casa/issues/52) | [Geise Saunier](https://github.com/GeiseSaunier) e [Pedro Igor](https://github.com/pedroeagle) | 5 |
