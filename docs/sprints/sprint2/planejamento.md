@@ -52,3 +52,4 @@ Devido a complexidade de algumas issues, pode ser necessário um tempo de estudo
 Data | Versão | Descrição | Autor |
 :---:|:------:|-----------|-------|
 25/02|0.1 | Criação da Página | [Rafael Ribeiro](https://github.com/rafaelflarrn) |
+08/03|1.0 | Adição do link da primeira issue | [Pedro Igor](https://github.com/pedroeagle) |
