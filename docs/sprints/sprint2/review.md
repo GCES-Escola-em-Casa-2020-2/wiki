@@ -3,6 +3,7 @@
 Tarefa | Finalizada? |
 :-----:|:-----------:|
 [Filtrar acesso a internet antes de abrir o WebView](https://github.com/GCES-Escola-em-Casa-2020-2/wiki/issues/5) | :heavy_check_mark: |
+[Documentar todo o processo de publicação do app na Google Play e Apple Store](https://github.com/GCES-Escola-em-Casa-2020-2/wiki/issues/6)| :heavy_check_mark: |
 
 # Tarefas
 
