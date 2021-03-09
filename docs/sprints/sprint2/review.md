@@ -4,12 +4,13 @@ Tarefa | Finalizada? |
 :-----:|:-----------:|
 [Filtrar acesso a internet antes de abrir o WebView](https://github.com/GCES-Escola-em-Casa-2020-2/wiki/issues/5) | :heavy_check_mark: |
 [Documentar todo o processo de publicação do app na Google Play e Apple Store](https://github.com/GCES-Escola-em-Casa-2020-2/wiki/issues/6)| :heavy_check_mark: |
+[Melhorar FAQ](https://github.com/GCES-Escola-em-Casa-2020-2/wiki/issues/3)| :heavy_check_mark: |
 
 # Tarefas
 
 ## Filtrar acesso a internet antes de abrir o WebView
 
-Foi criada uma tela informando que o usário está sem acesso a internet. Além disso foi adicionado um botão para que o usuário tente se conectar novamente. O PR foi aberto no repositório oficial e está disponível [aqui](https://github.com/Escola-em-Casa/android-escola-em-casa/pull/55).
+Foi criada uma tela informando que o usuário está sem acesso a internet. Além disso foi adicionado um botão para que o usuário tente se conectar novamente. O PR foi aberto no repositório oficial e está disponível [aqui](https://github.com/Escola-em-Casa/android-escola-em-casa/pull/55).
 
 ## Documentar todo o processo de publicação do app na Google Play e Apple Store
 
@@ -21,6 +22,10 @@ Algumas configurações a serem especificadas são mostradas como pendentes ao c
 
 Para lançar uma nova versão da aplicação basta selecioná-la no Painel inicial do Google Console e clicar em "Criar nova versão".
 
+## Melhorar FAQ
+
+Os comentários sobre o aplicativo foram analisados e posteriormente criamos mais algumas dúvidas na página de 'Dúvidas Frequentes'. Além disso, foi criada uma RecyclerView para remodelar o formato de como as dúvidas e respostas eram mostradas na tela. Com a implementação dessa view, os usuários podem visualizar todas as dúvidas cadastradas, e podem clicar em cima de cada uma para visualizar sua respectiva resposta. O PR foi aberto no repositório oficial e está disponível [aqui](https://github.com/Escola-em-Casa/android-escola-em-casa/pull/56)
+
 # Tarefas não Finalizadas e Justificativa
 
 ## Histórico de Revisão
@@ -30,3 +35,4 @@ Data | Versão | Descrição | Autor |
 08/03|0.1 | Criação da Página | [Pedro Igor](https://github.com/pedroeagle) |
 08/03|1.0 | Adição da descrição da tarefa da issue de filtro de acesso a internet. | [Pedro Igor](https://github.com/pedroeagle) |
 08/03|1.1 | Adição da documentação de como publicar o app na Play Store. | [Pedro Igor](https://github.com/pedroeagle) |
+09/03|1.2 | Adição da descrição da tarefa da issue de melhoria do FAQ. | [Lucas Gomes](https://github.com/LGomees) |
