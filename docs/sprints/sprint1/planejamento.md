@@ -16,12 +16,12 @@ Início | Termino | Duração |
 
 ---
 
-Issue | Assign |
-:----:|:------:|
-[Criação da Wiki](https://github.com/GCES-Escola-em-Casa-2020-2/wiki/issues/1) | [Rafael Ribeiro](https://github.com/rafaelflarrn) |
-[Tutorial Interativo](https://github.com/Escola-em-Casa/android-escola-em-casa/issues/30) | [Geise Saunier](https://github.com/GeiseSaunier) e [Pedro Igor](https://github.com/pedroeagle) |
-[Redesenhar a página de FAQ](https://github.com/Escola-em-Casa/android-escola-em-casa/issues/31) | [Lucas Gomes](https://github.com/LGomees) |
-Documentação do DATAMI | [Marcos Diego](https://github.com/marcosdsg) |
+Issue | Assign | Pontuação |
+:----:|:------:|:---------:|
+[Criação da Wiki](https://github.com/GCES-Escola-em-Casa-2020-2/wiki/issues/1) | [Rafael Ribeiro](https://github.com/rafaelflarrn) | 3
+[Criação do tutorial inicial do app](https://github.com/GCES-Escola-em-Casa-2020-2/wiki/issues/2) | [Geise Saunier](https://github.com/GeiseSaunier) e [Pedro Igor](https://github.com/pedroeagle) | 8
+[Melhorar FAQ](https://github.com/GCES-Escola-em-Casa-2020-2/wiki/issues/3) | [Lucas Gomes](https://github.com/LGomees) | 5
+[Documentação DATAMI](https://github.com/GCES-Escola-em-Casa-2020-2/wiki/issues/4) | [Marcos Diego](https://github.com/marcosdsg) | 5
 
 ### Dívidas
 
@@ -47,6 +47,6 @@ Devido a complexidade de algumas issues, pode ser necessário um tempo de estudo
 
 Data | Versão | Descrição | Autor |
 :---:|:------:|-----------|-------|
-22/01|0.1 | Criação da Página | [Rafael Ribeiro](https://github.com/rafaelflarrn) |
-23/03|0.2 | Adicionado Objetivos | [Rafael Ribeiro](https://github.com/rafaelflarrn) |
-
+22/02|0.1 | Criação da Página | [Rafael Ribeiro](https://github.com/rafaelflarrn) |
+23/02|0.2 | Adicionado Objetivos | [Rafael Ribeiro](https://github.com/rafaelflarrn) |
+24/02|1.0 | Adicionado Pontuação | [Rafael Ribeiro](https://github.com/rafaelflarrn) |
