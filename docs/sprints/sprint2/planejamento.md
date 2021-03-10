@@ -2,7 +2,7 @@
 
 ---
 
-<p align="justify">Foi planejado o sprint backlog da sprint 2. Discutido possiveis problemas futuros, como a falta de uma conta com permissões de professor para se ter uma melhor visão do aplicativo. Também foi divido as issues escolhidas entre os integrantes.</p>
+Foi planejado o sprint backlog da sprint 2. Discutido possiveis problemas futuros, como a falta de uma conta com permissões de professor para se ter uma melhor visão do aplicativo. Também foi divido as issues escolhidas entre os integrantes.
 
 ## Tamanho da Sprint
 
