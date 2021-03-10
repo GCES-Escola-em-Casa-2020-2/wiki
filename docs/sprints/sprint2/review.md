@@ -29,9 +29,9 @@ A **VPN** pessoal utilizada nesta aplicação atende a alguns propósitos princi
 O processo de publicação segue os seguintes protocolos:
 
 - Criar a build do aplicativo, isto é, abrir o android studio, clicar em build, em seguida pressionar a opção correspondente a make project. Se tudo estiver funcionando corretamente, clicar em build novamente. Ao seguir essas etapas, a buil do aplicativo é criada.
-- Submeter a build pra datami validar e habilitar o wifi
-- Com o wifi habilitado, submeter para testflight
-entrar com o processo de publicação, explicando a forma de uso da VPN, pois embora a conexão VPN habilite uma conexão segura, nenhum dado pessoal é coletado do usuário e não há nenhuma interferência com outros tráfegos de dados do aparelho. Todo o tráfego de dados do usuário é respeitado e permitido e nenhum dado é coletado ou armazenado. Além disso, uma mensagem clara é apresentada ao usuário informando-lhe da VPN.
+- Submeter a build, o datami precisa ser validado. Além disso, é necessário habilitar a opção de wifi;
+- Com o wifi habilitado, submeter para testflight;
+- Entrar com o processo de publicação, explicando a forma de uso da VPN, pois embora a conexão VPN habilite uma conexão segura, nenhum dado pessoal é coletado do usuário e não há nenhuma interferência com outros tráfegos de dados do aparelho. Todo o tráfego de dados do usuário é respeitado e permitido e nenhum dado é coletado ou armazenado. Além disso, uma mensagem clara é apresentada ao usuário informando-lhe da VPN.
 - As lojas vão necessariamente recusar a publicação por causa da VPN, devido a insegurança no uso dessas APIS para importar bibliotecas não recomendadas;
 - Em seguida, deve-se entrar em contato com o suporte das lojas para explicar que a aplicação utiliza dados patrocinados, ou seja, o aplicativo coleta apenas dados anônimos, no intuito de aferir a quantidade de dados trafegados de forma global e por operadora envolvida no processo, para confecção de fatura relativo aos dados trafegados, por se tratar de dados patrocinados pelo Governo do Distrito federal junto as operadoras de telefonia móvel integrantes do chamamento público. 
 - A última etapa do processo é de fato submeter a aplicação para revisão e publicação na Play Store. É necessário criar uma conta no [Google Play Console](https://play.google.com/console/signup) preenchendo todas as informações do desenvolvedor. 
