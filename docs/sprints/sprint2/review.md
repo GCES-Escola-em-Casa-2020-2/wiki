@@ -27,7 +27,7 @@ A **VPN** pessoal utilizada nesta aplicação atende a alguns propósitos princi
 
 O processo de publicação segue os seguintes protocolos:
 
-- criar a build do aplicativo, isto é, abrir o android studio, clicar em build, em seguida pressionar a opção correspondente a make project. Se tudo estiver funcionando corretamente, clicar em build novamente. Ao seguir essas etapas, a buil do aplicativo é criada.
+- Criar a build do aplicativo, isto é, abrir o android studio, clicar em build, em seguida pressionar a opção correspondente a make project. Se tudo estiver funcionando corretamente, clicar em build novamente. Ao seguir essas etapas, a buil do aplicativo é criada.
 - Submeter a build pra datami validar e habilitar o wifi
 - Com o wifi habilitado, submeter para testflight
 entrar com o processo de publicação, explicando a forma de uso da VPN, pois embora a conexão VPN habilite uma conexão segura, nenhum dado pessoal é coletado do usuário e não há nenhuma interferência com outros tráfegos de dados do aparelho. Todo o tráfego de dados do usuário é respeitado e permitido e nenhum dado é coletado ou armazenado. Além disso, uma mensagem clara é apresentada ao usuário informando-lhe da VPN.
@@ -56,5 +56,5 @@ Data | Versão | Descrição | Autor |
 08/03|1.1 | Adição da documentação de como publicar o app na Play Store. | [Pedro Igor](https://github.com/pedroeagle) |
 09/03|1.2 | Adição da descrição da tarefa da issue de melhoria do FAQ. | [Lucas Gomes](https://github.com/LGomees) |
 09/03|1.3 | Atualização da documentação de como publicar o app na Play Store. | [Pedro Igor](https://github.com/pedroeagle)|
-09/03|1.4 | Adição da documentação de atualização do SDK. | [Pedro Igor](https://github.com/pedroeagle) [Geise Saunier](https://github.com/GeiseSaunier) |
-09/03|1.4 | Finalização da documentação de como publicar o app na Play Store. | [Pedro Igor](https://github.com/pedroeagle) [Geise Saunier](https://github.com/GeiseSaunier) |
+09/03|1.4 | Adição da documentação de atualização do SDK. | [Pedro Igor](https://github.com/pedroeagle), [Geise Saunier](https://github.com/GeiseSaunier) |
+09/03|1.5 | Finalização da documentação de como publicar o app na Play Store. | [Pedro Igor](https://github.com/pedroeagle), [Geise Saunier](https://github.com/GeiseSaunier) |
