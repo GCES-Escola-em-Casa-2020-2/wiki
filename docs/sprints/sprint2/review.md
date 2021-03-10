@@ -6,6 +6,7 @@ Tarefa | Finalizada? |
 [Documentar todo o processo de publicação do app na Google Play e Apple Store](https://github.com/GCES-Escola-em-Casa-2020-2/wiki/issues/6)| :heavy_check_mark: |
 [Melhorar FAQ](https://github.com/GCES-Escola-em-Casa-2020-2/wiki/issues/3)| :heavy_check_mark: |
 [Documentar o processo de atualização do SDK datami](https://github.com/Escola-em-Casa/android-escola-em-casa/issues/52) | :heavy_check_mark: |
+[Abrir formularios do google](https://github.com/GCES-Escola-em-Casa-2020-2/wiki/issues/9) | :heavy_check_mark: |
 
 # Tarefas
 
