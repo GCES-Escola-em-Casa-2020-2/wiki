@@ -5,6 +5,7 @@ Tarefa | Finalizada? |
 [Filtrar acesso a internet antes de abrir o WebView](https://github.com/GCES-Escola-em-Casa-2020-2/wiki/issues/5) | :heavy_check_mark: |
 [Documentar todo o processo de publicação do app na Google Play e Apple Store](https://github.com/GCES-Escola-em-Casa-2020-2/wiki/issues/6)| :heavy_check_mark: |
 [Melhorar FAQ](https://github.com/GCES-Escola-em-Casa-2020-2/wiki/issues/3)| :heavy_check_mark: |
+[Documentar o processo de atualização do SDK datami](https://github.com/Escola-em-Casa/android-escola-em-casa/issues/52) | :heavy_check_mark: |
 
 # Tarefas
 
@@ -38,7 +39,10 @@ maven {
 
 ## Melhorar FAQ
 
-Os comentários sobre o aplicativo foram analisados e posteriormente criamos mais algumas dúvidas na página de 'Dúvidas Frequentes'. Além disso, foi criada uma RecyclerView para remodelar o formato de como as dúvidas e respostas eram mostradas na tela. Com a implementação dessa view, os usuários podem visualizar todas as dúvidas cadastradas, e podem clicar em cima de cada uma para visualizar sua respectiva resposta. O PR foi aberto no repositório oficial e está disponível [aqui](https://github.com/Escola-em-Casa/android-escola-em-casa/pull/56)
+Os comentários sobre o aplicativo foram analisados e posteriormente criamos mais algumas dúvidas na página de 'Dúvidas Frequentes'. Além disso, foi criada uma RecyclerView para remodelar o formato de como as dúvidas e respostas eram mostradas na tela. Com a implementação dessa view, os usuários podem visualizar todas as dúvidas cadastradas, e podem clicar em cima de cada uma para visualizar sua respectiva resposta. O PR foi aberto no repositório oficial e está disponível [aqui](https://github.com/Escola-em-Casa/android-escola-em-casa/pull/56).
+
+## Documentar o processo de atualização do SDK Datami
+Para atualizar o SDK do Datami é necessário baixar o SDK mais atual no [Site do Datami](https://developer.datami.com/#/onboardhome/sdkintegrationkit). É necessária uma conta que pode ser criada gratuitamente. Basta selecionar "android" em seguida a versão mais atual e então baixar o arquivo "vpnsdk-android.zip", após extraído será encontrado um arquivo em formato ".aar". O arquivo deve ser adicionado ao diretório "app/libs" no diretório raiz. Dele virão todos os métodos necessários para a utilização do Datami. Para cada atualização do SDK é necessário realizar o download e adiçaõ do arquivo ao projeto. O PR foi aberto para o repositório oficial e está disponível [aqui](https://github.com/Escola-em-Casa/android-escola-em-casa/pull/57).
 
 # Tarefas não Finalizadas e Justificativa
 
@@ -50,4 +54,4 @@ Data | Versão | Descrição | Autor |
 08/03|1.0 | Adição da descrição da tarefa da issue de filtro de acesso a internet. | [Pedro Igor](https://github.com/pedroeagle) |
 08/03|1.1 | Adição da documentação de como publicar o app na Play Store. | [Pedro Igor](https://github.com/pedroeagle) |
 09/03|1.2 | Adição da descrição da tarefa da issue de melhoria do FAQ. | [Lucas Gomes](https://github.com/LGomees) |
-09-03|1.3 | Atualização da documentação de como publicar o app na Play Store. | [Pedro Igor](https://github.com/pedroeagle)|
+09/03|1.3 | Atualização da documentação de como publicar o app na Play Store. | [Pedro Igor](https://github.com/pedroeagle)|
