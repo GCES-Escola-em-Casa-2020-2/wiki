@@ -22,6 +22,20 @@ Algumas configurações a serem especificadas são mostradas como pendentes ao c
 
 Para lançar uma nova versão da aplicação basta selecioná-la no Painel inicial do Google Console e clicar em "Criar nova versão".
 
+Como se trata de uma aplicação que utiliza serviço de VPN é necessário tomar alguns cuidados para que a publicação seja aceita. Na documentação do Datami é sugerida a importação da lib por meio do gerenciador de pacotes Maven da seguinte forma:
+
+**(Exemplo de como não deve ser feito)**
+```
+maven {
+ url 'https://s3.amazonaws.com/sdk-gareleases.cloudmi.datami.com/android/mvn/smisdk/'
+}
+ ```
+ **PORÉM AO REALIZAR ESSA IMPORTAÇÃO A APLICAÇÃO SERÁ RECUSADA PELA EQUIPE DA GOOGLE.**
+
+ A forma "correta" de realizar essa a importação da lib é baixando o arquivo mais atual no [Site do Datami](https://developer.datami.com/#/onboardhome/sdkintegrationkit). É necessária uma conta que pode ser criada gratuitamente. Basta selecionar "android" em seguida a versão mais atual e então baixar o arquivo "vpnsdk-android.zip", após extraído será encontrado um arquivo em formato ".aar". O arquivo deve ser adicionado ao diretório "app/libs" no diretório raiz. Dele virão todos os métodos necessários para a utilização do Datami.
+
+ Além de alguns cuidados com APIs externas que podem ser prejudiciais pode ser necessária a submissão de alguns certificados e resposta de questionários informando tudo o que é realizado e como é feito para a publicação seja aceita.
+
 ## Melhorar FAQ
 
 Os comentários sobre o aplicativo foram analisados e posteriormente criamos mais algumas dúvidas na página de 'Dúvidas Frequentes'. Além disso, foi criada uma RecyclerView para remodelar o formato de como as dúvidas e respostas eram mostradas na tela. Com a implementação dessa view, os usuários podem visualizar todas as dúvidas cadastradas, e podem clicar em cima de cada uma para visualizar sua respectiva resposta. O PR foi aberto no repositório oficial e está disponível [aqui](https://github.com/Escola-em-Casa/android-escola-em-casa/pull/56)
@@ -36,3 +50,4 @@ Data | Versão | Descrição | Autor |
 08/03|1.0 | Adição da descrição da tarefa da issue de filtro de acesso a internet. | [Pedro Igor](https://github.com/pedroeagle) |
 08/03|1.1 | Adição da documentação de como publicar o app na Play Store. | [Pedro Igor](https://github.com/pedroeagle) |
 09/03|1.2 | Adição da descrição da tarefa da issue de melhoria do FAQ. | [Lucas Gomes](https://github.com/LGomees) |
+09-03|1.3 | Atualização da documentação de como publicar o app na Play Store. | [Pedro Igor](https://github.com/pedroeagle)|
