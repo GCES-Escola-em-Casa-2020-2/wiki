@@ -7,12 +7,13 @@ Tarefa | Finalizada? |
 [Melhorar FAQ](https://github.com/GCES-Escola-em-Casa-2020-2/wiki/issues/3)| :heavy_check_mark: |
 [Documentar o processo de atualização do SDK datami](https://github.com/Escola-em-Casa/android-escola-em-casa/issues/52) | :heavy_check_mark: |
 [Abrir formularios do google](https://github.com/Escola-em-Casa/android-escola-em-casa/issues/50) | :heavy_check_mark: |
+[Documentar o processo para a habilitação de funcionalidades do google classroom](https://github.com/Escola-em-Casa/android-escola-em-casa/issues/53) | :x: |
 
 # Tarefas
 
 ## Filtrar acesso a internet antes de abrir o WebView
 
-Foi criada uma tela informando que o usário está sem acesso a internet. Além disso foi adicionado um botão para que o usuário tente se conectar novamente. O PR foi aberto no repositório oficial e está disponível [aqui](https://github.com/Escola-em-Casa/android-escola-em-casa/pull/55).
+Foi criada uma tela informando que o usuário está sem acesso a internet. Além disso foi adicionado um botão para que o usuário tente se conectar novamente. O PR foi aberto no repositório oficial e está disponível [aqui](https://github.com/Escola-em-Casa/android-escola-em-casa/pull/55).
 
 ## Documentar todo o processo de publicação do app na Google Play e Apple Store
 
