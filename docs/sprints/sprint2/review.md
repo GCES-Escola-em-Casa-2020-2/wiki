@@ -8,6 +8,7 @@ Tarefa | Finalizada? |
 [Documentar o processo de atualização do SDK datami](https://github.com/Escola-em-Casa/android-escola-em-casa/issues/52) | :heavy_check_mark: |
 [Abrir formularios do google](https://github.com/Escola-em-Casa/android-escola-em-casa/issues/50) | :heavy_check_mark: |
 [Documentar o processo para a habilitação de funcionalidades do google classroom](https://github.com/Escola-em-Casa/android-escola-em-casa/issues/53) | :x: |
+[Adicionar funcionalidade de tirar foto](https://github.com/Escola-em-Casa/android-escola-em-casa/issues/49) | :x: |
 
 # Tarefas
 
