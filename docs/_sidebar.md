@@ -8,4 +8,6 @@
     - [Planejamento](/sprints/sprint2/planejamento.md)
     - [Reunião](/sprints/sprint2/reunioes1.md) 
     - [Review](/sprints/sprint2/review.md)
+- Sprint 3
+    - [Planejamento](/sprints/sprint3/planejamento.md)
 - [Metodologia](/sprints/sprint1/metodologia.md)

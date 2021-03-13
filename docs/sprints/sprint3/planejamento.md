@@ -21,6 +21,11 @@ Início | Termino | Duração |
 
 Issue | Assign | Pontuação |
 :----:|:------:|:---------:|
+[Verificar mais formas de inserir formulários (link, link encurtado)](https://github.com/Escola-em-Casa/android-escola-em-casa/issues/50) |  [Geise Saunier](https://github.com/GeiseSaunier) e [Pedro Igor](https://github.com/pedroeagle) | 3 |
+[Verificar mais formas de abrir docs (link, link encurtado)](https://github.com/GCES-Escola-em-Casa-2020-2/wiki/issues/12) | [Geise Saunier](https://github.com/GeiseSaunier) e [Pedro Igor](https://github.com/pedroeagle) | 3 |
+[Adicionar barra de controle de histórico (navegação), conseguir voltar, salvar status da página enquanto navega entre outros itens](https://github.com/GCES-Escola-em-Casa-2020-2/wiki/issues/13) | [Pedro Igor](https://github.com/pedroeagle) e [Lucas Gomes](https://github.com/LGomees) | 13 |
+[Criar um método para enviar requisição a cada segundo](https://github.com/Escola-em-Casa/android-escola-em-casa/issues/33) | [Rafael Ribeiro](https://github.com/rafaelflarrn) e [Lucas Gomes](https://github.com/LGomees) | 5 |
+[Enviar o consumo de dados patrocinados para o elasticsearch](https://github.com/Escola-em-Casa/android-escola-em-casa/issues/34) | [Marcos Diego](https://github.com/marcosdsg) | 8 | 
 
 
 ### Dívidas
@@ -51,3 +56,4 @@ Devido a complexidade de algumas issues, pode ser necessário um tempo de estudo
 Data | Versão | Descrição | Autor |
 :---:|:------:|-----------|-------|
 11/03|0.1 | Criação da Página | [Rafael Ribeiro](https://github.com/rafaelflarrn) |
+13/03|1.0 | Adição das issues, pontuação e assignes | [Pedro Igor](https://github.com/pedroeagle)
