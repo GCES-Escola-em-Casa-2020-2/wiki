@@ -21,7 +21,12 @@ Ao utilizar o webview do app em alguns momentos o app não responde mais aos toq
 O PR foi aberto no repositório oficial e está disponível [aqui](https://github.com/Escola-em-Casa/android-escola-em-casa/pull/60).
 
 ## Verificar mais formas de abrir docs
+Existem algumas formas que permitem abrir docs no app:<br>
+    - Link completo do documento no formato `https://docs.google.com/document/d/${ID_DO_DOC}`. <br>
+    - Links no formato `https://drive.google.com/file/d/${ID_DO_DOC}`. Porém o arquivo é aberto apenas para leitura e é necessário aplicar zoom para ler determinados conteúdos. <br>
+    - Docs embutidos, isto é, sem link. O documento abre porém pode tomar algum tempo. O motivo dessa issue ter sido aberta: durante alguns testes o documento não abriu, porém durante a issue o documento abriu tomando certo tempo. <br>
 
+O essencial é que qualquer documento embutido abra sem problemas. Porém a conta que temos acesso para testes não nos permite inserção de novos conteúdos<br>
 
 ## Verificar mais formas de inserir formulário
 
@@ -53,3 +58,4 @@ Data | Versão | Descrição | Autor |
 22/03|0.3 | Verificar mais formas de abrir docs | [Pedro Igor](https://github.com/pedroeagle), [Geise Saunier](https://github.com/GeiseSaunier) |
 24/03|1.0 | Atualiza issue de mais formas de inserir formulário | [Pedro Igor](https://github.com/pedroeagle), [Geise Saunier](https://github.com/GeiseSaunier) |
 24/03|1.1 | Adiciona issue de botão de navegação no histórico | [Pedro Igor](https://github.com/pedroeagle) |
+24/03|1.2 | Adiciona issue de formas de abrir docs | [Pedro Igor](https://github.com/pedroeagle), [Geise Saunier](https://github.com/GeiseSaunier) |
