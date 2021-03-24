@@ -15,6 +15,11 @@ Tarefa | Finalizada? |
 
 ## Adicionar barra de controle de histórico
 
+Ao utilizar o webview do app em alguns momentos o app não responde mais aos toques dentro do navegador e ao pressionar o botão de voltar nada acontece ou o app simplesmente fecha. Para solucionar isso é necessário clicar em outro item na barra de navegação e então retornar a página que estava sendo utilizada. Como solução foi adicionado um botão auxiliar flutuante que permite que o usuário volte até a página anterior sem muitos problemas além de não fechar o app ao realizar tal ação.<br>
+![back_button](../../img/sprint3/back_button.png)<br>
+
+O PR foi aberto no repositório oficial e está disponível [aqui](https://github.com/Escola-em-Casa/android-escola-em-casa/pull/60).
+
 ## Verificar mais formas de abrir docs
 
 
@@ -47,3 +52,4 @@ Data | Versão | Descrição | Autor |
 22/03|0.2 | Verificar mais formas de inserir formulário | [Pedro Igor](https://github.com/pedroeagle), [Geise Saunier](https://github.com/GeiseSaunier) |
 22/03|0.3 | Verificar mais formas de abrir docs | [Pedro Igor](https://github.com/pedroeagle), [Geise Saunier](https://github.com/GeiseSaunier) |
 24/03|1.0 | Atualiza issue de mais formas de inserir formulário | [Pedro Igor](https://github.com/pedroeagle), [Geise Saunier](https://github.com/GeiseSaunier) |
+24/03|1.1 | Adiciona issue de botão de navegação no histórico | [Pedro Igor](https://github.com/pedroeagle) |
