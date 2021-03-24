@@ -2,16 +2,19 @@
 
 Tarefa | Finalizada? |
 :-----:|:-----------:|
-[Enviar o consumo de dados patrocinados para o elasticsearch](https://github.com/GCES-Escola-em-Casa-2020-2/wiki/issues/15) | |
-[Criar um método para enviar requisição a cada segundo](https://github.com/GCES-Escola-em-Casa-2020-2/wiki/issues/14)| |
-[Adicionar barra de controle de histórico](https://github.com/GCES-Escola-em-Casa-2020-2/wiki/issues/13)| |
-[Verificar mais formas de abrir docs](https://github.com/GCES-Escola-em-Casa-2020-2/wiki/issues/12) | |
+[Enviar o consumo de dados patrocinados para o elasticsearch](https://github.com/GCES-Escola-em-Casa-2020-2/wiki/issues/15) | :x: |
+[Criar um método para enviar requisição a cada segundo](https://github.com/GCES-Escola-em-Casa-2020-2/wiki/issues/14)| :heavy_check_mark: |
+[Adicionar barra de controle de histórico](https://github.com/GCES-Escola-em-Casa-2020-2/wiki/issues/13)| :heavy_check_mark: |
+[Verificar mais formas de abrir docs](https://github.com/GCES-Escola-em-Casa-2020-2/wiki/issues/12) | :heavy_check_mark: |
 [Verificar mais formas de inserir formulário](https://github.com/GCES-Escola-em-Casa-2020-2/wiki/issues/11) | :heavy_check_mark: |
-[Adicionar a funcionalidade de tirar foto](https://github.com/GCES-Escola-em-Casa-2020-2/wiki/issues/8) | |
+[Documentar o processo para a habilitação de funcionalidades do google classroom](https://github.com/Escola-em-Casa/android-escola-em-casa/issues/53) | :x: |
 
 ## Enviar o consumo de dados patrocinados para o elasticsearch
 
+
 ## Criar um método para enviar requisição a cada segundo
+
+Essa issue já foi desenvolvida anteriormente, onde o PR ainda não foi revisado. Também está dependendo da aprovação do PR que conserta o Travis. 
 
 ## Adicionar barra de controle de histórico
 
@@ -46,8 +49,9 @@ Obs: Links no formato `https://drive.google.com/file/d/${ID_DO_FORMULARIO}` pode
 
 É necessário analisar se formulários inseridos sem link (como arquivo) no app funcionam como deveria. Porém a conta que temos acesso para testes não nos permite inserção de novos conteúdos.<br>
 
-## Adicionar a funcionalidade de tirar foto
+## Documentar o processo para a habilitação de funcionalidades do google classroom
 
+A issue não foi desenvolvida por conta de um dos riscos analisados anteriormente terem se concretizado. Um dos membros desistiu da matéria por problemas pessoais, deixando a issue como dívida técnica. 
 
 ## Histórico de Revisão
 
@@ -59,3 +63,4 @@ Data | Versão | Descrição | Autor |
 24/03|1.0 | Atualiza issue de mais formas de inserir formulário | [Pedro Igor](https://github.com/pedroeagle), [Geise Saunier](https://github.com/GeiseSaunier) |
 24/03|1.1 | Adiciona issue de botão de navegação no histórico | [Pedro Igor](https://github.com/pedroeagle) |
 24/03|1.2 | Adiciona issue de formas de abrir docs | [Pedro Igor](https://github.com/pedroeagle), [Geise Saunier](https://github.com/GeiseSaunier) |
+24/03|1.3 | Adiciona issue de criar método para enviar requisição a cada segundo e Consertando checkbox de tarefas | [Lucas Gomes](https://github.com/LGomees)|
