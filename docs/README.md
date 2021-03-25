@@ -32,14 +32,6 @@ Nesse espaço, professores poderão se comunicar com estudantes realizando video
           </div>
     </div>
     <div class="col-sm container-img">
-      <img src="./img/team/marcos.jpeg" alt="..." class="img-thumbnail image">
-          <div class="middle">
-            <div class="text">
-            <a href="https://github.com/marcosdsg">Marcos Diego</a>
-            </div>
-          </div>
-    </div>
-    <div class="col-sm container-img">
       <img src="./img/team/pedro.jpeg" alt="..." class="img-thumbnail image">
           <div class="middle">
             <div class="text">
