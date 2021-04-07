@@ -12,7 +12,7 @@
 
 Início | Termino | Duração |
 :-----:|:-------:|:-------:| 
-30/03  |08/04    |7 dias úteis|
+30/03  |08/04    |6 dias úteis|
 
 ## Objetivos
 
