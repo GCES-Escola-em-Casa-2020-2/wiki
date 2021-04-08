@@ -10,7 +10,17 @@ Tarefa | Finalizada? |
 
 ## Criação de página de boas vindas com termos de utilização de vpn
 
+Foi criada uma tela ao abrir o app pela primeira vez solicitando que o usuário aceite os termos. É mostrado os termos presentes aqui: https://escolaemcasa.se.df.gov.br/index.php/politica-de-privacidade/ através de um webview.
+
+![terms](./../../img/sprint4/terms.png)<br>
+
+O PR foi aberto no repositório oficial e está disponível [aqui](https://github.com/Escola-em-Casa/android-escola-em-casa/pull/64).
+
 ## Salvar conteúdo das telas ao trocar de tela (verificar permitir alternar entre contas
+
+Foi adicionada uma linha ao manifest para que fosse possível salvar temporariamente o conteúdo da webview. Como era utilizado um único webview para duas páginas (google class, wikipedia) foi necessário adicionar uma webview pra cada uma das telas. Dessa forma o conteúdo do webview não é perdido ao trocar de tela.
+
+O PR foi aberto no repositório oficial e está disponível [aqui](https://github.com/Escola-em-Casa/android-escola-em-casa/pull/62).
 
 ## Documentar como habilitar funcionalidade no google class room
 
@@ -89,3 +99,4 @@ A documentação completa da API pode ser encontrada [aqui](https://developers.g
 Data | Versão | Descrição | Autor |
 :---:|:------:|-----------|-------|
 08/04|0.1 | Criação da Página | [Rafael Ribeiro](https://github.com/rafaelflarrn) |
+08/04|1.0 | Adicionando review | [Pedro Igor](https://github.com/pedroeagle) |
