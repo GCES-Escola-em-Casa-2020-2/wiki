@@ -20,11 +20,11 @@ Início | Termino | Duração |
 
 Issue | Assign | Pontuação |
 :----:|:------:|:---------:|
-**Criação de página de boas vindas com termos de utilização de vpn** | [Geise Saunier](https://github.com/GeiseSaunier) e [Pedro Igor](https://github.com/pedroeagle) | 5 |
-**Salvar conteúdo das telas ao trocar de tela (verificar permitir alternar entre contas)** | [Geise Saunier](https://github.com/GeiseSaunier) e [Pedro Igor](https://github.com/pedroeagle) | 13 |
-**Documentar como habilitar funcionalidade no google class room** | [Rafael Ribeiro](https://github.com/rafaelflarrn) | 5 |
-**Adicionar funcionalidade de tirar foto** | [Rafael Ribeiro](https://github.com/rafaelflarrn) e [Lucas Gomes](https://github.com/LGomees) | 8 |
-**Ferramenta de busca no FAQ** | [Lucas Gomes](https://github.com/LGomees) | 5 |
+[Criação de página de boas vindas com termos de utilização de vpn](https://github.com/GCES-Escola-em-Casa-2020-2/wiki/issues/16) | [Geise Saunier](https://github.com/GeiseSaunier) e [Pedro Igor](https://github.com/pedroeagle) | 5 |
+[Salvar conteúdo das telas ao trocar de tela (verificar permitir alternar entre contas](https://github.com/GCES-Escola-em-Casa-2020-2/wiki/issues/17) | [Geise Saunier](https://github.com/GeiseSaunier) e [Pedro Igor](https://github.com/pedroeagle) | 13 |
+[Documentar como habilitar funcionalidade no google class room](https://github.com/GCES-Escola-em-Casa-2020-2/wiki/issues/18) | [Rafael Ribeiro](https://github.com/rafaelflarrn) | 5 |
+[Adicionar funcionalidade de tirar foto](https://github.com/GCES-Escola-em-Casa-2020-2/wiki/issues/8) | [Rafael Ribeiro](https://github.com/rafaelflarrn) e [Lucas Gomes](https://github.com/LGomees) | 8 |
+[Ferramenta de busca no FAQ](https://github.com/GCES-Escola-em-Casa-2020-2/wiki/issues/19) | [Lucas Gomes](https://github.com/LGomees) | 5 |
 **Criar issues já feitas e issues a serem feitas no repositório da equipe** | **TODOS** | 3 |
 
 ### Dívidas
@@ -55,3 +55,4 @@ Devido a complexidade de algumas issues, pode ser necessário um tempo de estudo
 Data | Versão | Descrição | Autor |
 :---:|:------:|-----------|-------|
 29/03|0.1 | Criação da Página | [Rafael Ribeiro](https://github.com/rafaelflarrn) |
+08/04|0.1 | Adicionando links das issues | [Rafael Ribeiro](https://github.com/rafaelflarrn) |
