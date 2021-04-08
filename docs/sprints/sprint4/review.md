@@ -88,7 +88,16 @@ A documentação completa da API pode ser encontrada [aqui](https://developers.g
 
 ## Adicionar funcionalidade de tirar foto
 
+A issue não foi desenvolvida nessa sprint. 
+
 ## Ferramenta de busca no FAQ
+
+Foi criado um novo menu para ser inserido no layout, representando a SearchView. Para conectar o menu ao adapter da RecyclerView que existe na página de FAQ (contendo as dúvidas e respostas) foi necessário implementar a classe Filter dentro dele, onde o que é digitado é captado através dos listeners da SearchView e assim comparados com as dúvidas já existentes na RecyclerView. 
+
+A implementação ainda não foi finalizada pois os listeners por algum motivo não estão funcionando, nem chegando a instanciar o menu na página de QuestionsActivity, mesmo que a implementação esteja igual a vários exemplos que verificamos nos estudos. 
+
+![searchbox](https://user-images.githubusercontent.com/18038966/114096216-ce615880-9894-11eb-8963-1b4809e11d84.png)
+
 
 ## Referências Bibliográficas
 
@@ -100,3 +109,4 @@ Data | Versão | Descrição | Autor |
 :---:|:------:|-----------|-------|
 08/04|0.1 | Criação da Página | [Rafael Ribeiro](https://github.com/rafaelflarrn) |
 08/04|1.0 | Adicionando review | [Pedro Igor](https://github.com/pedroeagle) |
+08/04|1.1 | Adicionando texto sobre Ferramenta de busca no FAQ | [Lucas Gomes](https://github.com/LGomees) |
