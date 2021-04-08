@@ -15,3 +15,4 @@
 - Sprint 4
     - [Planejamento](/sprints/sprint4/planejamento.md)
     - [Reunião](/sprints/sprint4/reuniao.md)
+    - [Review](/sprints/sprint4/review.md)
