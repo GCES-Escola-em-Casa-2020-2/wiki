@@ -16,3 +16,7 @@
     - [Planejamento](/sprints/sprint4/planejamento.md)
     - [Reunião](/sprints/sprint4/reuniao.md)
     - [Review](/sprints/sprint4/review.md)
+- Sprint 5
+    - [Planejamento](/sprints/sprint5/planejamento.md)
+    - [Reunião](/sprints/sprint5/reuniao.md)
+
