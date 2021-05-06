@@ -1,12 +1,5 @@
 # Planejamento Sprint 06
 
----
-
-* Aplicar as técnicas de Clean Code e SOLID
-* Integrar com plataforma que verifica a qualidade do código
-* Abrir mais issues no repositório baseadas nas issues presentes no repositório oficial
-* Distribuir as issues entre os integrantes
-
 ## Tamanho da Sprint
 
 ---
