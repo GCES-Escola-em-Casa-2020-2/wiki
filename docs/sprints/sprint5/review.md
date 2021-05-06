@@ -27,9 +27,33 @@ Na classe foram aplicadas técnicas de Clean Code para melhorar a leitura do có
 
 Para ver todas as mudanças realizadas na classe basta ver esse [commmit](https://github.com/GCES-Escola-em-Casa-2020-2/android-escola-em-casa/commit/22edeca91a6ea14f3784b6e2f7000f4c8e943558).
 
+## WebView Activity
+
+Toda a classe foi refatorada com o objetivo de manter um código limpo e legível. O código que antes realizava diversas coisas simultaneamente passou a realmente contar uma história.
+
+### Exemplos de mudanças
+### Antes
+![onCreate](./../../img/sprint5/antes_oncreate.png)
+
+### Depois
+![onCreate](./../../img/sprint5/depois_oncreate.png)
+
+### Antes
+![shouldOverrideLoading](./../../img/sprint5/antes_shouldoverrideloading.png)
+
+### Depois
+![shouldOverrideLoading](./../../img/sprint5/depois_shouldoverrideloading.png)
+
+### Antes
+![onPageStarted](./../../img/sprint5/antes_onpagestarted.png)
+
+### Depois
+![onPageStarted](./../../img/sprint5/depois_onpagestarted.png)
+
 ## Histórico de Revisão
 
 Data | Versão | Descrição | Autor |
 :---:|:------:|-----------|-------|
 26/04|0.1 | Criação da Página | [Rafael Ribeiro](https://github.com/rafaelflarrn) |
+05/05|1.0 | Adição das alterações realizadas sobre a WebviewActivity | [Pedro Igor](https://github.com/pedroeagle) |
 
