@@ -4,6 +4,7 @@ Tarefa | Finalizada? |
 :-----:|:-----------:|
 [Ferramenta de busca no FAQ](https://github.com/GCES-Escola-em-Casa-2020-2/wiki/issues/19) | :heavy_check_mark: |
 [Refatoração do NavigationView](https://github.com/GCES-Escola-em-Casa-2020-2/wiki/issues/8) | |
+[Mudando o tamanho da logo na SplashScreen]() | :heavy_check_mark: |
 
 ## Ferramenta de busca no FAQ
 
@@ -14,10 +15,14 @@ Foi implementado um mecanismo de busca para facilitar a busca na tela de pergunt
 ### Pesquisa no FAQ
 ![Pesquisa](./../../img/sprint7/pesquisa.png)<br>
 
+## Mudando o tamanho da logo na SplashScreen
+
+Alteramos o tamanho da logomarca do Escola em casa na tela de carregamento inicial para uma melhor experiência do usuário.
+
 ## Histórico de Revisão
 
 Data | Versão | Descrição | Autor |
 :---:|:------:|-----------|-------|
 13/05|0.1 | Documentação da ferramenta de busca no FAQ | [Rafael Ribeiro](https://github.com/rafaelflarrn) e [Lucas Gomes](https://github.com/LGomees) |
-
+13/05|0. | Mudando o tamanho da logo na SplashScreen | [Lucas Gomes](https://github.com/LGomees) |
 
