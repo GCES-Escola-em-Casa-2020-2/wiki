@@ -27,7 +27,9 @@ PR | Issue  |
  10 | [Adicionar botão de controle de histórico de navegação](https://github.com/Escola-em-Casa/android-escola-em-casa/pull/60) |
 
 ## Documentações em Issues
-[Documentar o processo para a habilitação de funcionalidades do google classroom](https://github.com/Escola-em-Casa/android-escola-em-casa/issues/53)
-[Documentar o processo de atualização do SDK datami](https://github.com/Escola-em-Casa/android-escola-em-casa/issues/52)
-[Verificar mais formas de abrir docs](https://github.com/Escola-em-Casa/android-escola-em-casa/issues/67)
-[Documentar todo o processo de publicação do app na Google Play e Apple Store](https://github.com/Escola-em-Casa/android-escola-em-casa/issues/66)
+Issues |
+:----:|
+[Documentar o processo para a habilitação de funcionalidades do google classroom](https://github.com/Escola-em-Casa/android-escola-em-casa/issues/53)|
+[Documentar o processo de atualização do SDK datami](https://github.com/Escola-em-Casa/android-escola-em-casa/issues/52)|
+[Verificar mais formas de abrir docs](https://github.com/Escola-em-Casa/android-escola-em-casa/issues/67)|
+[Documentar todo o processo de publicação do app na Google Play e Apple Store](https://github.com/Escola-em-Casa/android-escola-em-casa/issues/66)|
