@@ -42,6 +42,8 @@ Após criada a conta, basta clicar em "Criar app" na primeira página. Será nec
 
 Algumas configurações a serem especificadas são mostradas como pendentes ao clicar na opção "Produção" ou "Teste" a depender do tipo de submissão que será realizado, na barra lateral. Nessa mesma página é possível selecionar o APK (arquivo executável do aplicativo, em formato .apk) ou um arquivo em formato .aab (Android App Bundles). Também é possível especificar a versão do app além de diversas descrições que aparecerão na página do aplicativo. É obrigatória a submissão de um banner e alguns prints da aplicação em funcionamento. É, inclusive, recomendado que o nome desses arquivos de imagem sejam significativos para que sejam sugeridos em pesquisas do Google, aumentando assim o alcance do app. Após toda essa etapa de detalhamento do aplicativo basta clicar em "Iniciar lançamento para Produção". 
 
+A issue foi criada no repositório oficial e adicionado um comentário com todo o processo de publicação e está disponível [aqui](https://github.com/Escola-em-Casa/android-escola-em-casa/issues/66).
+
 ## Melhorar FAQ
 Os comentários sobre o aplicativo foram analisados e posteriormente criamos mais algumas dúvidas na página de 'Dúvidas Frequentes'. Além disso, foi criada uma RecyclerView para remodelar o formato de como as dúvidas e respostas eram mostradas na tela. Com a implementação dessa view, os usuários podem visualizar todas as dúvidas cadastradas, e podem clicar em cima de cada uma para visualizar sua respectiva resposta. O PR foi aberto no repositório oficial e está disponível [aqui](https://github.com/Escola-em-Casa/android-escola-em-casa/pull/56).
 
@@ -73,3 +75,4 @@ Data | Versão | Descrição | Autor |
 09/03|1.5 | Finalização da documentação de como publicar o app na Play Store. | [Pedro Igor](https://github.com/pedroeagle), [Geise Saunier](https://github.com/GeiseSaunier) |
 10/03|1.6 | Adição da documentação da issue [Abrir formularios do google #9](https://github.com/GCES-Escola-em-Casa-2020-2/wiki/issues/9) | [Rafael Ribeiro](https://github.com/rafaelflarrn) |
 10/03|1.7 | Correção de pequenos erros | [Pedro Igor](https://github.com/pedroeagle), [Geise Saunier](https://github.com/GeiseSaunier), [Rafael Ribeiro](https://github.com/rafaelflarrn), [Lucas Gomes](https://github.com/LGomees) |
+15/03|1.8 | Adição de link de comentário sobre publicação do app | [Pedro Igor](https://github.com/pedroeagle)|
