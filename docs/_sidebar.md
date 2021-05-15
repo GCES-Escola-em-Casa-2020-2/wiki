@@ -28,3 +28,4 @@
     - [Planejamento](/sprints/sprint7/planejamento.md)
     - [Reunião](/sprints/sprint7/reuniao.md)
     - [Review](/sprints/sprint7/review.md)
+- [Relatório Final](/sprints/final_apresentation.md)
