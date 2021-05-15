@@ -7,7 +7,7 @@ Tarefa | Finalizada? |
 [ABOUT ACTIVITY](https://github.com/GCES-Escola-em-Casa-2020-2/wiki/issues/27) | :x: |
 [MYAPPLICATION](https://github.com/GCES-Escola-em-Casa-2020-2/wiki/issues/28) | :heavy_check_mark: |
 [SPLASH SCREEN ACTIVITY](https://github.com/GCES-Escola-em-Casa-2020-2/wiki/issues/29) | :heavy_check_mark: |
-[WEB ACTIVITY](https://github.com/GCES-Escola-em-Casa-2020-2/wiki/issues/30) | :heavy_check_mark: |
+[WEB ACTIVITY](https://github.com/Escola-em-Casa/android-escola-em-casa/issues/68) | :heavy_check_mark: |
 [INTEGRAR COM O CODE SMELLS](https://github.com/GCES-Escola-em-Casa-2020-2/wiki/issues/31) | :heavy_check_mark: |
 
 ## Splash Screen Activity
@@ -29,7 +29,7 @@ Para ver todas as mudanças realizadas na classe basta ver esse [commmit](https:
 
 ## WebView Activity
 
-Toda a classe foi refatorada com o objetivo de manter um código limpo e legível. O código que antes realizava diversas coisas simultaneamente passou a realmente contar uma história.
+Toda a classe foi refatorada com o objetivo de manter um código limpo e legível. O código que antes realizava diversas coisas simultaneamente passou a realmente contar uma história. O PR foi aberto para o repositório oficial e pode ser acessado [aqui](https://github.com/Escola-em-Casa/android-escola-em-casa/pull/69).
 
 ### Exemplos de mudanças
 ### Antes
@@ -90,4 +90,5 @@ Data | Versão | Descrição | Autor |
 26/04|0.1 | Criação da Página | [Rafael Ribeiro](https://github.com/rafaelflarrn) |
 05/05|1.0 | Adição das alterações realizadas sobre a WebviewActivity | [Pedro Igor](https://github.com/pedroeagle) |
 11/05|1.1 | Adição das alterações realizadas sobre a MyApplication e Questions Activity | [Lucas Gomes](https://github.com/LGomees) |
+15/05|1.2 | Adição de link para o PR no repositório oficial | [Pedro Igor](https://github.com/pedroeagle) |
 

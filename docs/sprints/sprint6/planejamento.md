@@ -16,7 +16,7 @@ Issue | Assign | Pontuação |
 :----:|:------:|:---------:|
 [Implementação de testes](colocar_link) | [Rafael Ribeiro](https://github.com/rafaelflarrn) | 5 Pontos |
 [Implementar Solid](colocar_link) | [Geise](https://github.com/GeiseSaunier), [Lucas](https://github.com/LGomees) | 8 Pontos |
-[Pesquisar viabilidade de utilização do Google Classroom Api](https://github.com/GCES-Escola-em-Casa-2020-2/wiki/issues/18) | [Pedro Igor](https://github.com/pedroeagle) | 5 Pontos |
+[Pesquisar viabilidade de utilização do Google Classroom Api](https://github.com/Escola-em-Casa/android-escola-em-casa/issues/53) | [Pedro Igor](https://github.com/pedroeagle) | 5 Pontos |
 
 
 ### Issues Acrescentadas Durante a Sprint

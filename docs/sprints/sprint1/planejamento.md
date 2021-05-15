@@ -19,7 +19,7 @@ Início | Termino | Duração |
 Issue | Assign | Pontuação |
 :----:|:------:|:---------:|
 [Criação da Wiki](https://github.com/GCES-Escola-em-Casa-2020-2/wiki/issues/1) | [Rafael Ribeiro](https://github.com/rafaelflarrn) | 3
-[Criação do tutorial inicial do app](https://github.com/GCES-Escola-em-Casa-2020-2/wiki/issues/2) | [Geise Saunier](https://github.com/GeiseSaunier) e [Pedro Igor](https://github.com/pedroeagle) | 8
+[Criação do tutorial inicial do app](https://github.com/Escola-em-Casa/android-escola-em-casa/issues/30) | [Geise Saunier](https://github.com/GeiseSaunier) e [Pedro Igor](https://github.com/pedroeagle) | 8
 [Melhorar FAQ](https://github.com/GCES-Escola-em-Casa-2020-2/wiki/issues/3) | [Lucas Gomes](https://github.com/LGomees) | 5
 [Documentação DATAMI](https://github.com/GCES-Escola-em-Casa-2020-2/wiki/issues/4) | [Marcos Diego](https://github.com/marcosdsg) | 5
 

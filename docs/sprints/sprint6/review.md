@@ -4,7 +4,7 @@ Tarefa | Finalizada? |
 :-----:|:-----------:|
 [Implementação de testes](colocar_link) | :heavy_check_mark: |
 [Implementar Solid e Clean Code](colocar_link) | :heavy_check_mark: |
-[Pesquisar viabilidade de utilização do Google Classroom Api](https://github.com/GCES-Escola-em-Casa-2020-2/wiki/issues/18) |:heavy_check_mark: |
+[Pesquisar viabilidade de utilização do Google Classroom Api](https://github.com/Escola-em-Casa/android-escola-em-casa/issues/53) |:heavy_check_mark: |
 
 ## Pesquisar viabilidade de utilização do Google Classroom Api
 A pesquisa foi realizada com objetivo de, por meio da api, realizar a submissão de atividades no Google Classroom. A partir dessa viabilidade utilizar o Google Drive Api e realizar então a submissão de fotos (uma issue atualmente sem solução do projeto).

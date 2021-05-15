@@ -18,7 +18,7 @@ Início | Termino | Duração |
 
 Issue | Assign | Pontuação |
 :----:|:------:|:---------:|
-[Refatoração do NavigationView](https://github.com/GCES-Escola-em-Casa-2020-2/wiki/issues/8) | [Geise Saunier](https://github.com/GeiseSaunier) e [Pedro Igor](https://github.com/pedroeagle) | 8 |
+[Refatoração do NavigationView](https://github.com/Escola-em-Casa/android-escola-em-casa/issues/71) | [Geise Saunier](https://github.com/GeiseSaunier) e [Pedro Igor](https://github.com/pedroeagle) | 8 |
 [Ferramenta de busca no FAQ](https://github.com/GCES-Escola-em-Casa-2020-2/wiki/issues/19) | [Rafael Ribeiro](https://github.com/rafaelflarrn) e [Lucas Gomes](https://github.com/LGomees) | 5 |
 
 
@@ -50,3 +50,4 @@ Devido a complexidade de algumas issues, pode ser necessário um tempo de estudo
 Data | Versão | Descrição | Autor |
 :---:|:------:|-----------|-------|
 11/05|0.1 | Criação da Página | [Rafael Ribeiro](https://github.com/rafaelflarrn) |
+15/05|0.2 | Adição de link para issue no repositório oficial | [Pedro Igor](https://github.com/pedroeagle)
