@@ -3,7 +3,7 @@
 Tarefa | Finalizada? |
 :-----:|:-----------:|
 [Ferramenta de busca no FAQ](https://github.com/GCES-Escola-em-Casa-2020-2/wiki/issues/19) | :heavy_check_mark: |
-[Refatoração do NavigationView](https://github.com/GCES-Escola-em-Casa-2020-2/wiki/issues/8) | |
+[Refatoração da NavigationBar](https://github.com/Escola-em-Casa/android-escola-em-casa/issues/71) | |
 [Mudando o tamanho da logo na SplashScreen]() | :heavy_check_mark: |
 
 ## Ferramenta de busca no FAQ
@@ -18,6 +18,11 @@ Foi implementado um mecanismo de busca para facilitar a busca na tela de pergunt
 ## Mudando o tamanho da logo na SplashScreen
 
 Alteramos o tamanho da logomarca do Escola em casa na tela de carregamento inicial para uma melhor experiência do usuário.
+
+## Refatoração da NavigationBar
+
+Foi criada uma pai NavigationBar que é herdada por todas as outras activities. Dentro dessa classe pai é implementado o método de seleção dos itens da navbar evitando assim duplicação de código.<br>
+![Navigation Bar Activity](./../../img/sprint7/navigation_bar.png)
 
 ## Histórico de Revisão
 

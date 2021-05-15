@@ -4,7 +4,7 @@ Developer | Individual Commits | Pair Commits |
 :----:|:------:|:---------:|
 [Geise Saunier](https://github.com/GeiseSaunier) | 17 | 7 |
 [Lucas Gomes](https://github.com/LGomees) | 33 | 4 |
-[Pedro Igor](https://github.com/pedroeagle) | 47 | 14 |
+[Pedro Igor](https://github.com/pedroeagle) | 49 | 14 |
 [Rafael Ribeiro](https://github.com/rafaelflarrn) | 19 | 6 | 
 
 # Pull Requests
@@ -17,6 +17,7 @@ PR | Issue  |
  4 | [Tela com termos de política e privacidade](https://github.com/Escola-em-Casa/android-escola-em-casa/pull/64) |
  5 | [Aplicar as técnicas de Clean Code e SOLID na WebviewActivity](https://github.com/Escola-em-Casa/android-escola-em-casa/pull/69) |
  6 | [Document datami sdk update](https://github.com/Escola-em-Casa/android-escola-em-casa/pull/57) |
+ 7 | [Refatoração NavigationBar](https://github.com/Escola-em-Casa/android-escola-em-casa/pull/72) |
 
 ## Fechados
 PR | Issue  |
