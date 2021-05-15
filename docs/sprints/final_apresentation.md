@@ -4,8 +4,8 @@ Developer | Individual Commits | Pair Commits |
 :----:|:------:|:---------:|
 [Geise Saunier](https://github.com/GeiseSaunier) | 17 | 7 |
 [Lucas Gomes](https://github.com/LGomees) | 33 | 4 |
-[Pedro Igor](https://github.com/pedroeagle) | | |
-[Rafael Ribeiro](https://github.com/rafaelflarrn) | | | 
+[Pedro Igor](https://github.com/pedroeagle) | 47 | 14 |
+[Rafael Ribeiro](https://github.com/rafaelflarrn) | 19 | 6 | 
 
 # Pull Requests
 ## Abertos
@@ -25,3 +25,9 @@ PR | Issue  |
  8 | [Adicionar botão de controle de histórico (navegação)](https://github.com/Escola-em-Casa/android-escola-em-casa/pull/58) |
  9 | [Correção de bug ao abrir formulários](https://github.com/Escola-em-Casa/android-escola-em-casa/pull/59) |
  10 | [Adicionar botão de controle de histórico de navegação](https://github.com/Escola-em-Casa/android-escola-em-casa/pull/60) |
+
+## Documentações em Issues
+[https://github.com/Escola-em-Casa/android-escola-em-casa/issues/53](Documentar o processo para a habilitação de funcionalidades do google classroom)
+[https://github.com/Escola-em-Casa/android-escola-em-casa/issues/52](Documentar o processo de atualização do SDK datami)
+[https://github.com/Escola-em-Casa/android-escola-em-casa/issues/67](Verificar mais formas de abrir docs)
+[https://github.com/Escola-em-Casa/android-escola-em-casa/issues/66](Documentar todo o processo de publicação do app na Google Play e Apple Store)
