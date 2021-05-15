@@ -4,9 +4,9 @@ Tarefa | Finalizada? |
 :-----:|:-----------:|
 [Enviar o consumo de dados patrocinados para o elasticsearch](https://github.com/GCES-Escola-em-Casa-2020-2/wiki/issues/15) | :x: |
 [Criar um método para enviar requisição a cada segundo](https://github.com/GCES-Escola-em-Casa-2020-2/wiki/issues/14)| :heavy_check_mark: |
-[Adicionar barra de controle de histórico](https://github.com/GCES-Escola-em-Casa-2020-2/wiki/issues/13)| :heavy_check_mark: |
-[Verificar mais formas de abrir docs](https://github.com/GCES-Escola-em-Casa-2020-2/wiki/issues/12) | :heavy_check_mark: |
-[Verificar mais formas de inserir formulário](https://github.com/GCES-Escola-em-Casa-2020-2/wiki/issues/11) | :heavy_check_mark: |
+[Adicionar barra de controle de histórico](https://github.com/Escola-em-Casa/android-escola-em-casa/issues/70)| :heavy_check_mark: |
+[Verificar mais formas de abrir docs](https://github.com/Escola-em-Casa/android-escola-em-casa/issues/67) | :heavy_check_mark: |
+[Verificar mais formas de inserir formulário](https://github.com/Escola-em-Casa/android-escola-em-casa/issues/50) | :heavy_check_mark: |
 [Documentar o processo para a habilitação de funcionalidades do google classroom](https://github.com/Escola-em-Casa/android-escola-em-casa/issues/53) | :x: |
 
 ## Enviar o consumo de dados patrocinados para o elasticsearch

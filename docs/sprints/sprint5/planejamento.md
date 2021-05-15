@@ -26,7 +26,7 @@ Issue | Assign | Pontuação |
 [ABOUT ACTIVITY](https://github.com/GCES-Escola-em-Casa-2020-2/wiki/issues/27) | [Geise Saunier](https://github.com/GeiseSaunier) | 5 |
 [MYAPPLICATION](https://github.com/GCES-Escola-em-Casa-2020-2/wiki/issues/28) | [Lucas Gomes](https://github.com/LGomees) | 5 |
 [SPLASH SCREEN ACTIVITY](https://github.com/GCES-Escola-em-Casa-2020-2/wiki/issues/29) | [Rafael Ribeiro](https://github.com/rafaelflarrn) | 8 |
-[WEB ACTIVITY](https://github.com/GCES-Escola-em-Casa-2020-2/wiki/issues/30) | [Pedro Igor](https://github.com/pedroeagle) | 10 |
+[WEB ACTIVITY](https://github.com/Escola-em-Casa/android-escola-em-casa/issues/68)) | [Pedro Igor](https://github.com/pedroeagle) | 10 |
 [INTEGRAR COM O CODE SMELLS](https://github.com/GCES-Escola-em-Casa-2020-2/wiki/issues/31)| [Lucas Gomes](https://github.com/LGomees) | 3 |
 
 

@@ -7,7 +7,7 @@ Tarefa | Finalizada? |
 [ABOUT ACTIVITY](https://github.com/GCES-Escola-em-Casa-2020-2/wiki/issues/27) | :x: |
 [MYAPPLICATION](https://github.com/GCES-Escola-em-Casa-2020-2/wiki/issues/28) | :heavy_check_mark: |
 [SPLASH SCREEN ACTIVITY](https://github.com/GCES-Escola-em-Casa-2020-2/wiki/issues/29) | :heavy_check_mark: |
-[WEB ACTIVITY](https://github.com/GCES-Escola-em-Casa-2020-2/wiki/issues/30) | :heavy_check_mark: |
+[WEB ACTIVITY](https://github.com/Escola-em-Casa/android-escola-em-casa/issues/68) | :heavy_check_mark: |
 [INTEGRAR COM O CODE SMELLS](https://github.com/GCES-Escola-em-Casa-2020-2/wiki/issues/31) | :heavy_check_mark: |
 
 ## Splash Screen Activity
