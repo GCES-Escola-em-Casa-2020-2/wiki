@@ -50,10 +50,44 @@ Toda a classe foi refatorada com o objetivo de manter um código limpo e legíve
 ### Depois
 ![onPageStarted](./../../img/sprint5/depois_onpagestarted.png)
 
+## MyApplication
+
+Na classe foram aplicadas técnicas de Clean Code para melhorar a leitura do código. Seguindo os padrões recomendados pela comunidade Java, as seguintes alterações foram realizadas:
+
+* Transformação de variáveis privadas para variáveis locais.
+* Aplicação de métodos explicativos, seguindo o princípio da responsabilidade única.
+
+### Antes 
+![VariaveisPrivadas](https://user-images.githubusercontent.com/18038966/117905257-47473c00-b2a9-11eb-91cb-3ecac4c3c779.png)
+
+### Depois
+![VariaveisLocais](https://user-images.githubusercontent.com/18038966/117905297-57f7b200-b2a9-11eb-9cf2-b85498979ff1.png)
+
+### Antes
+![OnCreate](https://user-images.githubusercontent.com/18038966/117905328-6645ce00-b2a9-11eb-9363-dd5c58eaaaa2.png)
+
+### Depois
+![OnCreate](https://user-images.githubusercontent.com/18038966/117905384-78c00780-b2a9-11eb-81a8-62bd3acdd455.png)
+
+## Questions Activity
+
+Na classe foram aplicadas técnicas de Clean Code para melhorar a leitura do código. Seguindo os padrões recomendados pela comunidade Java, as seguintes alterações foram realizadas:
+
+* Aplicação de métodos explicativos, seguindo o princípio da responsabilidade única.
+
+### Antes
+![OnCreate](https://user-images.githubusercontent.com/18038966/117905482-9d1be400-b2a9-11eb-8422-830958deca52.png)
+
+### Depois
+![image](https://user-images.githubusercontent.com/18038966/117905510-ac029680-b2a9-11eb-9a61-0bc35ad5647d.png)
+
+
+
 ## Histórico de Revisão
 
 Data | Versão | Descrição | Autor |
 :---:|:------:|-----------|-------|
 26/04|0.1 | Criação da Página | [Rafael Ribeiro](https://github.com/rafaelflarrn) |
 05/05|1.0 | Adição das alterações realizadas sobre a WebviewActivity | [Pedro Igor](https://github.com/pedroeagle) |
+11/05|1.1 | Adição das alterações realizadas sobre a MyApplication e Questions Activity | [Lucas Gomes](https://github.com/LGomees) |
 

@@ -3,7 +3,7 @@
 Tarefa | Finalizada? |
 :-----:|:-----------:|
 [Implementação de testes](colocar_link) | |
-[Implementar Solid](colocar_link) | |
+[Implementar Solid e Clean Code](colocar_link) | :heavy_check_mark: |
 [Pesquisar viabilidade de utilização do Google Classroom Api](https://github.com/GCES-Escola-em-Casa-2020-2/wiki/issues/18) |:heavy_check_mark: |
 
 ## Pesquisar viabilidade de utilização do Google Classroom Api
@@ -45,3 +45,25 @@ que o estudante entregue a atividade. É possível então modificar os anexos de
 o problema de subsmissão de imagens), video do youtube, link e um formulário. O exemplo abaixo envia um link como submissão.
 await classroom.courses.courseWork.studentSubmissions.modifyAttachments({courseId: $idDaTurma, courseWorkId: $idDaAtividade, id: $idDaSubmissao, 
 requestBody:{addAttachments:[{link:{url: $url, title: $tituloDaUrl}}]}})
+
+## Implementar SOLID e Clean Code
+
+Levando em consideração alguns arquivos que não tinham passado por uma analise de clean code e aplicação dos princípios do SOLID, os arquivos AboutActivity e MainActivity foram analisados e filtrados de acordo com as aplicações possíveis. Junto a isso, o método setupNavigationView que foi criado na sprint anterior sofreu uma alteração para que posterioremente seja modificado para uma classe abstrata, tendo em vista que a mesma é utilizada em basicamente 4 arquivos de maneira adaptada.
+
+### Antes
+![MainActivity](https://user-images.githubusercontent.com/18038966/117906298-051efa00-b2ab-11eb-9614-31ef3570c702.png)
+
+### Depois 
+![MainActivity](https://user-images.githubusercontent.com/18038966/117906389-313a7b00-b2ab-11eb-9e9a-5216fc7901f4.png)
+
+![AboutActivity](https://user-images.githubusercontent.com/18038966/117906422-40212d80-b2ab-11eb-891c-455650ae1ace.png)
+
+![MetodoSetupNavigation](https://user-images.githubusercontent.com/18038966/117906474-5d55fc00-b2ab-11eb-830c-37f22f070e89.png)
+
+
+## Histórico de Revisão
+
+Data | Versão | Descrição | Autor |
+:---:|:------:|-----------|-------|
+05/05|0.1 | Adição da pesquisa sobre Google Classroom API | [Pedro Igor](https://github.com/pedroeagle) |
+11/05|0.2 | Adição das implementação de clean code e SOLID na About Activity e Main Activity | [Lucas Gomes](https://github.com/LGomees) |
